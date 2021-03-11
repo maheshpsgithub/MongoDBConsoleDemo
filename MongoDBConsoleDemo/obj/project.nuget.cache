@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "VhuWoYf7jLgjVPFdCowvqwPSRn/qB5XWOXRmW5ASw/4b1+ZCGSfdOtT4yiO9yqa88LtbgO4Xo8IXyqVStygYmw==",
+  "dgSpecHash": "xcxr404eX4425dF4Z+PERTGZNtarsaazdpBK92qK7oI6pXxBHgNG6n8kBYW/RQJPUKLP+pV1VzI96AaFWow81A==",
   "success": true,
   "projectFilePath": "C:\\MyGithubRepo\\MongoDBConsoleDemo\\MongoDBConsoleDemo\\MongoDBConsoleDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mahes\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\mongodb.bson\\2.12.0\\mongodb.bson.2.12.0.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\mongodb.driver\\2.12.0\\mongodb.driver.2.12.0.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\mongodb.driver.core\\2.12.0\\mongodb.driver.core.2.12.0.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.0\\mongodb.libmongocrypt.1.2.0.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
